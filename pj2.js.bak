@@ -1,0 +1,3 @@
+var parsedJSON = require('0001.json');
+var obj = JSON.parse(parsedJSON);
+console.log(obj.picture);

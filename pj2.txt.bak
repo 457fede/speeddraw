@@ -1,0 +1,1 @@
+var parsedJSON = require('./0001.json');
